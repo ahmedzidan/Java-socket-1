@@ -1,0 +1,6 @@
+build/
+nbproject
+
+#Idea Files
+.idea
+*.iml
